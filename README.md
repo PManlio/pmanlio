@@ -69,7 +69,7 @@ Oooh, finally the part for which you're here. Here're my skills
 <img src="https://cdn.brandfetch.io/idO_D7E2El/theme/dark/symbol.svg?c=1bxid64Mup7aczewSAYMX&t=1756706088669" width="35" height="35" />&nbsp;
 <img src="https://cdn.brandfetch.io/idnrCPuv87/w/400/h/400/theme/dark/icon.png?c=1bxid64Mup7aczewSAYMX&t=1749539604383" width="35" height="35" />&nbsp;
 
-#### Currently intrested in
+#### Currently interested in
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/kotlin/kotlin-original.svg" width="35" height="35" />&nbsp;
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/graphql/graphql-plain.svg" width="35" height="35" />&nbsp;
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/kubernetes/kubernetes-original.svg" width="35" height="35" />&nbsp;

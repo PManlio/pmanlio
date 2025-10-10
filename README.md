@@ -1,84 +1,8 @@
 ## Manlio's 🤖
 
-<html>
-<head>
-  <style>
-    .item {
-      z-index: 100;
-      padding: 5px;
-    }
-    .circle {
-      border-radius: 50%;
-      background-color: yellow;
-      width: 150px;
-      height: 150px;
-      position: absolute;
-      opacity: 0;
-      animation: scaleIn 4s infinite cubic-bezier(.36, .11, .89, .32);
-    }
-    #container {
-      width: 600px;
-      height: 400px;
-      display: flex;
-      align-items: center;
-      justify-content: center;
-      overflow: hidden;
-      position: relative;
-    }
-    .item #innerSun {
-      z-index:200;
-      width:100px;
-      height:100px;
-      border-radius: 50%;
-      background-color: #FFF673;
-      border: 5px solid white;
-      opacity: 1;
-      animation: pulsatingBorders 2s alternate ease-in-out;
-      animation-iteration-count: infinite;
-    }
-    @keyframes scaleIn {
-      from {
-        transform: scale(.5, .5);
-        opacity: .8;
-      }
-      to {
-        transform: scale(2.5, 2.5);
-        opacity: 0;
-      }
-    }
-    @keyframes pulsatingBorders {
-      0% {
-        border-width: 5px;
-      }
-      50% {
-        border-width: 15px;
-      }
-      100% {
-        border-width: 5px;
-      }
-    }
-  </style>
-</head>
- 
-<body>
-  <div id="outerContainer" align="center">
-    <div id="container">
-      <div class="item">
-        <div id="innerSun">
-        </div>
-      </div>
-      <div class="circle" style="background-color: #FFDB02; animation-delay: 0s"></div>
-      <div class="circle" style="background-color: #FFBC11; animation-delay: 1s"></div>
-      <div class="circle" style="background-color: #FFDB02; animation-delay: 2s"></div>
-      <div class="circle" style="background-color: #FFDB02; animation-delay: 3s"></div>
-      <div class="circle" style="background-color: #FFDB02; animation-delay: 4s"></div>
-    </div>
-  </div>
-</body>
- 
-</html>
-
-
+<div align="center">
+  <img src="header.svg"/>
+</div>
 
 ### A few things about me ☝️
 I started my CS carrier because I fell in love with World of Warcraft when I was a child. And I thought: I want to create a game like that!

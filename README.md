@@ -3,6 +3,10 @@
 <div align="center">
   <img src="header.svg"/>
 </div>
+<div align="center" style="font-style: italic">Have you ever praised the Sun, motherquacker? 🦆</div>
+&nbsp;
+
+------
 
 ### A few things about me ☝️
 I started my CS carrier because I fell in love with World of Warcraft when I was a child. And I thought: I want to create a game like that!

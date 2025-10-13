@@ -11,7 +11,7 @@
 ### A few things about me ☝️
 I started my CS carrier because I fell in love with World of Warcraft when I was a child. And I thought: I want to create a game like that!
 Well, fast forward some year and I started with my Computer Engineering arc ahah.
-After a bachelor degree and a master degree I started working in the industry.
+After a bachelor degree and a master degree I started working in the web development industry.
 
 To list something that I like, I'd say 🤔:
 - 🌲 nature
